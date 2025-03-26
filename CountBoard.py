@@ -19,7 +19,7 @@ from Tile import *
 from CustomWindow import CustomWindow
 import ttkbootstrap as ttk
 from ttkbootstrap.style import utility
-
+import sys
 
 # from tzlocal import get_localzone
 
